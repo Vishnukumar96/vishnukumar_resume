@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.24)  24 APR 2017 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.24)  24 APR 2017 23:24
 entering extended mode
 **./vishnukumar_resume.tex
 (vishnukumar_resume.tex
@@ -1077,7 +1077,7 @@ fg"
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box62
- <picture.jpg, id=47, 414.54875pt x 532.99126pt>
+ <picture.jpg, id=51, 414.54875pt x 532.99126pt>
 File: picture.jpg Graphic file (type jpg)
  <use picture.jpg>
 Package pdftex.def Info: picture.jpg used on input line 13.
@@ -1110,11 +1110,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
 {C:/Users/bhask/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./picture.j
 pg>] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (vishnukumar_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 
 
 Package rerunfilecheck Warning: File `vishnukumar_resume.out' has changed.
@@ -1122,14 +1122,14 @@ Package rerunfilecheck Warning: File `vishnukumar_resume.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `vishnukumar_resume.out':
-(rerunfilecheck)             Before: 1FB8C59283E435B7DD1EB6DC6D5946F5;1054
-(rerunfilecheck)             After:  8A1059445B9DB82275F92640C4CD6ECD;1238.
+(rerunfilecheck)             Before: 8A1059445B9DB82275F92640C4CD6ECD;1238
+(rerunfilecheck)             After:  6B3195408AAA4E5D0C6C02C6839D8546;1407.
  ) 
 Here is how much of TeX's memory you used:
- 29274 strings out of 493333
- 545310 string characters out of 3130143
+ 29279 strings out of 493333
+ 545355 string characters out of 3130143
  612972 words of memory out of 3000000
- 32360 multiletter control sequences out of 15000+200000
+ 32361 multiletter control sequences out of 15000+200000
  52298 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,18n,58p,10389b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1141,9 +1141,9 @@ lm/lmss17.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmss8.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/lm/lmsso10.pfb><C:/Users/bhask/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/public/marvosym/marvosym.pfb>
-Output written on vishnukumar_resume.pdf (3 pages, 218635 bytes).
+Output written on vishnukumar_resume.pdf (3 pages, 219749 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 18018 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 18026 words of extra memory for PDF output out of 20736 (max. 10000000)
 
